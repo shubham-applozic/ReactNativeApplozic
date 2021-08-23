@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency "React"
-  s.dependency 'Applozic', '~> 7.14.0'
+  s.dependency 'Applozic', '~> 8.3.0'
 end
